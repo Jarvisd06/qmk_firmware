@@ -1,3 +1,8 @@
+# Personal Note
+
+This is a forked verison of QMK for use to generate the beadin keyboard
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
